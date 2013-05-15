@@ -5,9 +5,7 @@ die Suchmaschinen eTools.ch und Google. Dabei ist es in der Lage automatisch die
 
 Benutzung:
 ---------
-	java WebSearchLauncher [Suchmaschine] [Input] [Output]
-[zeige Suchstring] [zeige Link] [zeige Titel] [zeige Snippet]
-[Proxyliste]
+	java WebSearchLauncher [Suchmaschine] [Input] [Output] [zeige Suchstring] [zeige Link] [zeige Titel] [zeige Snippet][Proxyliste]
 
 1. Suchmaschine:
 Wert = google/etools.
